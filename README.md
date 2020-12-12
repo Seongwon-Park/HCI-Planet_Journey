@@ -18,3 +18,5 @@ Gachon University 2020 Fall semester
 * MacOS: MacOS Bigsur
 * IOS: ios14
 
+# Attachment
+* Description: [PPTX](https://drive.google.com/file/d/1VUpsi3f96OI4S7AjI0jsLkMpgmNKI24D/view?usp=sharing)
