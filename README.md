@@ -10,7 +10,7 @@ Gachon University 2020 Fall semester
 
 * Earth Marker
 
-![ScreenShot](/marker/earthmarker.png)
+![ScreenShot](/Marker/earthmarker.png)
 
 * Augmented Reality
 
