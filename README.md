@@ -7,11 +7,6 @@ Gachon University 2020 Fall semester
 * Task : Detect the 2D image as marker and show the augmented reality
 
 # Preview
-
-* Earth Marker
-
-![ScreenShot](/Marker/earthmarker.png)
-
 * Augmented Reality
 
 ![ScreenShot](preview.png)
