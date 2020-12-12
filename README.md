@@ -12,7 +12,7 @@ Gachon University 2020 Fall semester
 ![ScreenShot](preview.png)
 
 # Video (2020/12/12 Sat.)
-* Make Turtle Bot: [Youtube](https://youtu.be/_XwWgkwGUYo)
+* Demo Video: [Youtube](https://youtu.be/_XwWgkwGUYo)
 
 # Environment
 * MacOS: MacOS Bigsur
