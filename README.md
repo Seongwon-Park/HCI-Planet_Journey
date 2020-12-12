@@ -10,14 +10,14 @@ Gachon University 2020 Fall semester
 
 * Earth Marker
 
-![ScreenShot]()
+![ScreenShot](/marker/earthmarker.png)
 
 * Augmented Reality
 
-![ScreenShot]()
+![ScreenShot](preview.png)
 
 # Video (2020/12/12 Sat.)
-* Make Turtle Bot: [Youtube]()
+* Make Turtle Bot: [Youtube](https://youtu.be/_XwWgkwGUYo)
 
 # Environment
 * MacOS: MacOS Bigsur
